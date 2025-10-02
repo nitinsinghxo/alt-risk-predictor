@@ -1,0 +1,8 @@
+# Streamlit config to run headlessly and avoid interactive onboarding prompts
+[server]
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
